@@ -1,4 +1,4 @@
-Haan bhai, thoda format idhar-udhar ho gaya tha. **Chal ekdum mast sahi structure likh ke deta hoon!** 🚀🔥
+
 
 ---
 
@@ -40,7 +40,7 @@ It helps recruiters analyze resumes, generate professional summaries, score cand
 ---
 
 ## 📂 Project Structure
-```
+
 
 📂 resume-screening-api
 ├── 📂 uploads/ # Stores uploaded resumes (ignored in Git)
@@ -67,14 +67,13 @@ It helps recruiters analyze resumes, generate professional summaries, score cand
 ├── package.json
 ├── README.md # Project documentation
 
-````
 
----
+
 
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/yourusername/resume-screening-api.git
 cd resume-screening-api
 ````
@@ -184,8 +183,8 @@ Agar tu **is project ko contribute** karna chahta hai toh:
 ## 📞 Contact
 
 💡 **For questions or collaborations, contact:**  
-📧 Email: `your-email@example.com`  
-🌎 GitHub: [yourusername](https://github.com/yourusername)
+📧 Email: `a499hasan04@gmail.com`  
+🌎 GitHub: https://github.com/Ahmedkhan78 
 
 ---
 
@@ -201,12 +200,8 @@ Agar tu **is project ko contribute** karna chahta hai toh:
 
 ## 🏆 Credits
 
-Built with ❤️ using **Node.js, Express & Google Gemini AI** 🚀
+Built with ❤️ **ZEDn.g** 🚀
 
 ```
-
----
-
-
 
 ```
