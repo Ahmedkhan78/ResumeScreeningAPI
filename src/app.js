@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json()); // JSON parsing middleware
 app.use("/api/resume", resumeRoutes); // Resume routes mount kar raha hai
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT;
 
 // ✅ Fix: Server sirf tabhi chale jab direct run ho (test ke time nahi)
 if (require.main === module) {
