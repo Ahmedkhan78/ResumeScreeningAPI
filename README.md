@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 **🔥 Final GitHub `README.md` for Resume Screening API**
+## 📌 **🔥 Resume Screening API**
 
 ```md
 # 🚀 AI-Powered Resume Screening API
