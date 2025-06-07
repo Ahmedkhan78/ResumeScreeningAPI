@@ -183,7 +183,7 @@ Agar tu **is project ko contribute** karna chahta hai toh:
 ## 📞 Contact
 
 💡 **For questions or collaborations, contact:**  
-📧 Email: `a499hasan04@gmail.com`  
+📧 Email: `a499hasan02@gmail.com`  
 🌎 GitHub: https://github.com/Ahmedkhan78 
 
 ---
